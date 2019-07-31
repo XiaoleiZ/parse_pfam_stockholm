@@ -10,7 +10,7 @@ In Pfam website, some domain family alignments are not downloadable. e.g The [FN
 
 However, there is not such an existing tool to extract all the alignments given a domain ID from the Pfam multiple concatenated alignments files. The most relevant tool Biopython supports parsing Stockholm alignment format but does not support output alignment given a query domain accession ID.    
 
-Here, a handy script is written to extract alignments from Pfam file in Stockholm format given a domain ID from Pfam. 
+Here, a handy script is written to extract alignments from Pfam file in [Stockholm format](http://sonnhammer.sbc.su.se/Stockholm.html) given a domain ID from Pfam. 
 
 ## Usage
 
