@@ -14,18 +14,21 @@ Here, a handy script is written to extract alignments from Pfam file in [Stockho
 
 ## Usage
 
+Example: 
+
+`Python parse_pfam_stockholm.py Pfam-A.full.ncbi.gz PF00041 > output.file`
+
 Input 1: The Pfam file that contains full alignments of all Pfam-A families e.g. Pfam-A.full.ncbi.gz 
 
 Input 2: Pfam Domain ID e.g PF00041
 
-Output: Alignment file with format as following
+Output: lines of sequences belong to that domain family with IDs and aligned sequences (including gaps)
 
 Sequence_ID_1 | Aligned_Sequence_1
 --- | --- 
 Sequence_ID_2 | Aligned_Sequence_2
 
 
-Python parse_pfam_stockholm.py Pfam-A.full.ncbi.gz PF00041 > output.file 
 
 
 
