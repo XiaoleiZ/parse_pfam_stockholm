@@ -1,4 +1,4 @@
-# Parse Massive Pfam Stockholm file
+# Parse Massive Pfam Stockholm Alignment file
 
 ## Purpose
 
