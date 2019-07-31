@@ -18,8 +18,9 @@ Input 1: The Pfam file that contains full alignments of all Pfam-A families e.g.
 Input 2: Pfam Domain ID e.g PF00041
 Output: Alignment file with format as following
 
-| Sequence_ID_1 | Aligned_Sequence_1|
-| Sequence_ID_2 | Aligned_Sequence_2|
+Sequence_ID_1 | Aligned_Sequence_1
+--- | --- 
+Sequence_ID_2 | Aligned_Sequence_2
 
 
 Python parse_pfam_stockholm.py Pfam-A.full.ncbi.gz PF00041 > output.file 
