@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Get query alignment from the Pfam Stockholm Alignment files
+Output a query alignment of domain family from the Pfam Stockholm Alignment files
 
 ## Motivation 
 
