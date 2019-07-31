@@ -15,7 +15,9 @@ Here, a handy script is written to extract alignments from Pfam file in [Stockho
 ## Usage
 
 Input 1: The Pfam file that contains full alignments of all Pfam-A families e.g. Pfam-A.full.ncbi.gz 
+
 Input 2: Pfam Domain ID e.g PF00041
+
 Output: Alignment file with format as following
 
 Sequence_ID_1 | Aligned_Sequence_1
