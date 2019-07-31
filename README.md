@@ -1,4 +1,4 @@
-# Parse Pfam
+# Parse Massive Pfam Stockholm file
 
 ## Purpose
 
