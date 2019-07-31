@@ -28,7 +28,8 @@ Sequence_ID_1 | Aligned_Sequence_1
 --- | --- 
 Sequence_ID_2 | Aligned_Sequence_2
 
+## Citation
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3357002.svg)](https://doi.org/10.5281/zenodo.3357002)
 
 
